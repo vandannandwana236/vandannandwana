@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vandan Nandwana</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h1 align="center">Hello 👋, I'm Vandan Nandwana</h1>
+<h3 align="center">A passionate Android Developer</h3>
 
 <img align= "right" alt="coding" width = "400" src = "https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
