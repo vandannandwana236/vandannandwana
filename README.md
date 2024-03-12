@@ -1,5 +1,4 @@
-<img src="![Vandan](https://github.com/vandannandwana/vandannandwana/assets/144916127/3e9ae5a0-a037-48f9-a5d6-001dd3d66803)
-" alt="splash" width="200">
+<img src="https://www.canva.com/design/DAF_RCbDdI0/z7C0bQO4G2FaLml0gK58Wg/edit?utm_content=DAF_RCbDdI0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="banner" width="200">
 <h1 align="center">Hello 👋, I'm Vandan Nandwana</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
