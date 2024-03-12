@@ -1,4 +1,4 @@
-<img src="![Vandan](https://github.com/vandannandwana/Bhagwad-Gita/assets/144916127/573b79e0-3481-4860-bf24-22bb2ee6955b)
+<img src="![Vandan](https://github.com/vandannandwana/vandannandwana/assets/144916127/3e9ae5a0-a037-48f9-a5d6-001dd3d66803)
 " alt="splash" width="200">
 <h1 align="center">Hello 👋, I'm Vandan Nandwana</h1>
 <h3 align="center">A passionate Android Developer</h3>
